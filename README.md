@@ -7,6 +7,8 @@ No meu tempo livre gosto de assistir séries (📺) , filmes (🎞️) e animes 
 
 Quer me conhecer?
 
-[! [Emblema do Linkedin] (https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-sousa-dev)] ( https://www.linkedin.com/in/diego-sousa-dev)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-sousa-dev)]( https://www.linkedin.com/in/diego-sousa-dev)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:derickbenji2@gmail.com)](mailto:derickbenji2@gmail.com)
+
+
 
