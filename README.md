@@ -11,6 +11,4 @@ No meu tempo livre gosto de assistir séries (📺) , filmes (🎞️) e animes 
 
 
 <!--START_SECTION:waka-->
-
-
 <!--END_SECTION:waka-->
