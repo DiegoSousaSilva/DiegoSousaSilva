@@ -10,4 +10,5 @@ No meu tempo livre gosto de assistir séries (📺) , filmes (🎞️) e animes 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:derickbenji2@gmail.com)](mailto:derickbenji2@gmail.com)
 
 
-
+<! - START_SECÇÃO: waka ->
+<! - END_SECTION: waka ->
