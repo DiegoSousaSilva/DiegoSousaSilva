@@ -13,11 +13,11 @@ No meu tempo livre gosto de assistir séries (📺) , filmes (🎞️) e animes 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-152-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-135991%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-136122%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 148 Contributions in the Year 2020
+> 🏆 149 Contributions in the Year 2020
  > 
 > 📦 47.1 kB Used in Github's Storage 
  > 
