@@ -17,7 +17,7 @@ No meu tempo livre gosto de assistir séries (📺) , filmes (🎞️) e animes 
 
 **🐱 My Github Data** 
 
-> 🏆 153 Contributions in the Year 2020
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 47.3 kB Used in Github's Storage 
  > 
@@ -56,17 +56,16 @@ Sunday       26 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 46 mins             ████████████░░░░░░░░░░░░░   50.98% 
-YAML                     44 mins             ████████████░░░░░░░░░░░░░   49.02%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 31 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-diegosousasilva          1 hr 31 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 31 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
