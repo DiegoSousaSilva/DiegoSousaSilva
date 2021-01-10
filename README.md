@@ -13,17 +13,17 @@ No meu tempo livre gosto de assistir séries (📺) , filmes (🎞️) e animes 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-154237%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-166003%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 18 Contributions in the Year 2021
+> 🏆 20 Contributions in the Year 2021
  > 
 > 📦 48.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 19 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
@@ -72,11 +72,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               14 repos            ███████████████████░░░░░░   77.78% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+JavaScript               14 repos            ██████████████████░░░░░░░   73.68% 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
 
 ```
 
