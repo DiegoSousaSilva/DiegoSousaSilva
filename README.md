@@ -17,7 +17,7 @@ No meu tempo livre gosto de assistir séries (📺) , filmes (🎞️) e animes 
 
 **🐱 My Github Data** 
 
-> 🏆 69 Contributions in the Year 2021
+> 🏆 73 Contributions in the Year 2021
  > 
 > 📦 71.2 kB Used in Github's Storage 
  > 
@@ -56,19 +56,16 @@ Sunday       26 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               6 mins              █████████████░░░░░░░░░░░░   51.82% 
-JSON                     5 mins              ████████████░░░░░░░░░░░░░   48.18%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-NLW-3-WEB                7 mins              ███████████████░░░░░░░░░░   60.77% 
-NLW-3-MOBILE             4 mins              █████████░░░░░░░░░░░░░░░░   36.03% 
-NLW-3-BACKEND            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.2%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
