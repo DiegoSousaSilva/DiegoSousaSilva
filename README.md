@@ -17,7 +17,7 @@ No meu tempo livre gosto de assistir séries (📺) , filmes (🎞️) e animes 
 
 **🐱 My Github Data** 
 
-> 🏆 73 Contributions in the Year 2021
+> 🏆 74 Contributions in the Year 2021
  > 
 > 📦 71.2 kB Used in Github's Storage 
  > 
