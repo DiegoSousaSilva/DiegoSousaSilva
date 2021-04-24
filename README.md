@@ -17,7 +17,7 @@ No meu tempo livre gosto de assistir séries (📺) , filmes (🎞️) e animes 
 
 **🐱 My Github Data** 
 
-> 🏆 74 Contributions in the Year 2021
+> 🏆 75 Contributions in the Year 2021
  > 
 > 📦 71.5 kB Used in Github's Storage 
  > 
@@ -25,7 +25,7 @@ No meu tempo livre gosto de assistir séries (📺) , filmes (🎞️) e animes 
  > 
 > 📜 24 Public Repositories 
  > 
-> 🔑 2 Private Repositories  
+> 🔑 3 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
