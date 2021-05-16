@@ -17,9 +17,9 @@ No meu tempo livre gosto de assistir séries (📺) , filmes (🎞️) e animes 
 
 **🐱 My Github Data** 
 
-> 🏆 83 Contributions in the Year 2021
+> 🏆 85 Contributions in the Year 2021
  > 
-> 📦 73.8 kB Used in Github's Storage 
+> 📦 74.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,17 +56,16 @@ Sunday       26 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-HTML                     29 mins             ████████████████████████░   97.75% 
-PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  30 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cursoADS                 30 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  30 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
