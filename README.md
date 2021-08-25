@@ -19,7 +19,7 @@ No meu tempo livre gosto de assistir séries (📺) , filmes (🎞️) e animes 
 
 > 🏆 113 Contributions in the Year 2021
  > 
-> 📦 84.1 kB Used in Github's Storage 
+> 📦 88.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,11 +72,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               19 repos            ████████████████░░░░░░░░░   65.52% 
+JavaScript               20 repos            █████████████████░░░░░░░░   68.97% 
 TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
 CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
 
 ```
 
@@ -86,5 +86,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DiegoSousaSilva/DiegoSousaSilva/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/08/2021
+ Last Updated on 25/08/2021
 <!--END_SECTION:waka-->
