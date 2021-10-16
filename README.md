@@ -17,13 +17,13 @@ No meu tempo livre gosto de assistir séries (📺) , filmes (🎞️) e animes 
 
 **🐱 My GitHub Data** 
 
-> 🏆 113 Contributions in the Year 2021
+> 🏆 114 Contributions in the Year 2021
  > 
-> 📦 89.0 kB Used in GitHub's Storage 
+> 📦 89.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 29 Public Repositories 
+> 📜 30 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
@@ -72,11 +72,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               20 repos            █████████████████░░░░░░░░   68.97% 
-TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
+JavaScript               20 repos            ████████████████░░░░░░░░░   66.67% 
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33%
 
 ```
 
@@ -86,5 +86,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DiegoSousaSilva/DiegoSousaSilva/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/10/2021
+ Last Updated on 16/10/2021
 <!--END_SECTION:waka-->
