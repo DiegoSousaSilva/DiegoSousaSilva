@@ -57,80 +57,80 @@
 ![Diego GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoSousaSilva&show_icons=true)
 
 <!--START_SECTION:waka-->
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
 > 🏆 2 Contributions in the Year 2022
->
-> 📦 91.5 kB Used in GitHub's Storage
->
+ > 
+> 📦 91.5 kB Used in GitHub's Storage 
+ > 
 > 🚫 Not Opted to Hire
->
-> 📜 35 Public Repositories
->
-> 🔑 4 Private Repositories
->
-> **I'm a Night 🦉**
+ > 
+> 📜 35 Public Repositories 
+ > 
+> 🔑 4 Private Repositories  
+ > 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-🌆 Daytime    3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
-🌃 Evening    32 commits     ██████████████░░░░░░░░░░░   59.26%
+🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Daytime    3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+🌃 Evening    32 commits     ██████████████░░░░░░░░░░░   59.26% 
 🌙 Night      19 commits     ████████░░░░░░░░░░░░░░░░░   35.19%
 
 ```
-
-📅 **I'm Most Productive on Sunday**
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       7 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.96%
-Tuesday      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%
-Wednesday    6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
-Thursday     5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.26%
-Friday       11 commits     █████░░░░░░░░░░░░░░░░░░░░   20.37%
-Saturday     10 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.52%
+Monday       7 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.96% 
+Tuesday      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
+Wednesday    6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Thursday     5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.26% 
+Friday       11 commits     █████░░░░░░░░░░░░░░░░░░░░   20.37% 
+Saturday     10 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
 Sunday       13 commits     ██████░░░░░░░░░░░░░░░░░░░   24.07%
 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: America/Sao_Paulo
 
-💬 Programming Languages:
-No Activity Tracked This Week
+💬 Programming Languages: 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
-🔥 Editors:
-No Activity Tracked This Week
+🔥 Editors: 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
-🐱‍💻 Projects:
-No Activity Tracked This Week
+🐱‍💻 Projects: 
+diegosousasilva          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
-💻 Operating System:
-No Activity Tracked This Week
+💻 Operating System: 
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
-**I Mostly Code in JavaScript**
+**I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               21 repos            ███████████████░░░░░░░░░░   60.0%
-TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
-PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43%
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.71%
+JavaScript               21 repos            ███████████████░░░░░░░░░░   60.0% 
+TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
 HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86%
 
 ```
 
+
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/DiegoSousaSilva/DiegoSousaSilva/master/charts/bar_graph.png)
+![Chart not found](https://raw.githubusercontent.com/DiegoSousaSilva/DiegoSousaSilva/master/charts/bar_graph.png) 
 
-Last Updated on 23/01/2022 00:32:23 UTC
 
+ Last Updated on 25/01/2022 00:34:32 UTC
 <!--END_SECTION:waka-->
