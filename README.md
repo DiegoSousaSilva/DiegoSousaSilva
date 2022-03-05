@@ -2,9 +2,9 @@
 
 ### Bem vindo ao meu perfil
 
-#### Meu nome é Diego, formado em análise e desenvolvimento de sistemas.
+#### Meu nome é Diego, atualmente entrando no mercado como freelancer, formado em análise e desenvolvimento de sistemas. Tenho experiências com tecnologias como HTML, CSS, Javascript, React, React Native, Node, PHP, Laravel ... Assim como possuo competências em bancos d dados SQL e NoSQL.
 
-##### Amante da àrea de TI.
+##### Amante de códigos, sinto muito prazer ao finalizar um projeto e vê-lo funcionando, saber que foi meu código que tornou isso possível me dá uma enorme alegria 😃.
 
 #### No meu tempo livre gosto de assistir séries (📺) , filmes (🎞️) e animes 😄 ,ler livros (📚), ouvir música (🎵) e sair com a família 👯 .
 
