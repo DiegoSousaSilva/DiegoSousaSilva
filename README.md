@@ -104,16 +104,16 @@ Sunday       13 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-HTML                     6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-site-arquitetura         6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -134,5 +134,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DiegoSousaSilva/DiegoSousaSilva/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/05/2022 00:50:51 UTC
+ Last Updated on 17/05/2022 00:49:24 UTC
 <!--END_SECTION:waka-->
