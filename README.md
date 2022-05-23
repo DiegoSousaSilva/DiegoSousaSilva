@@ -104,16 +104,19 @@ Sunday       7 commits      ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     6 mins              ████████████████████████░   96.92% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.08%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+consorcio-amigo          5 mins              ██████████████████░░░░░░░   74.32% 
+ConsorcioAmigo           1 min               ██████░░░░░░░░░░░░░░░░░░░   25.68% 
+MyAwesomeRealmApp        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    6 mins              █████████████████████████   100.0%
 
 ```
 
@@ -134,5 +137,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DiegoSousaSilva/DiegoSousaSilva/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/05/2022 00:48:30 UTC
+ Last Updated on 23/05/2022 00:50:21 UTC
 <!--END_SECTION:waka-->
