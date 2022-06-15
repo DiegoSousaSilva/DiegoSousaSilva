@@ -104,16 +104,19 @@ Sunday       2 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               47 mins             ████████████░░░░░░░░░░░░░   51.02% 
+TypeScript               45 mins             ████████████░░░░░░░░░░░░░   48.96% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 33 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ConsorcioAmigo           1 hr 31 mins        ████████████████████████░   97.8% 
+RNWatermelonDB-demo-maste2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.2%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 33 mins        █████████████████████████   100.0%
 
 ```
 
@@ -134,5 +137,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DiegoSousaSilva/DiegoSousaSilva/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/06/2022 00:59:02 UTC
+ Last Updated on 15/06/2022 00:53:39 UTC
 <!--END_SECTION:waka-->
