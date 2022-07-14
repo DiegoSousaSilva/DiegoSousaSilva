@@ -104,16 +104,18 @@ Sunday       2 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 18 mins        ██████████████░░░░░░░░░░░   55.88% 
+JavaScript               40 mins             ███████░░░░░░░░░░░░░░░░░░   28.48% 
+JSON                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.64%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 20 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ConsorcioAmigo           2 hrs 20 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 20 mins       █████████████████████████   100.0%
 
 ```
 
@@ -134,5 +136,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DiegoSousaSilva/DiegoSousaSilva/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/07/2022 00:52:32 UTC
+ Last Updated on 14/07/2022 00:57:54 UTC
 <!--END_SECTION:waka-->
