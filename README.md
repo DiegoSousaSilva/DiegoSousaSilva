@@ -59,7 +59,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -104,18 +104,18 @@ Sunday       2 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               1 hr 18 mins        ██████████████░░░░░░░░░░░   55.88% 
-JavaScript               40 mins             ███████░░░░░░░░░░░░░░░░░░   28.48% 
-JSON                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.64%
+TypeScript               2 hrs 7 mins        ███████████████░░░░░░░░░░   61.62% 
+JavaScript               54 mins             ██████░░░░░░░░░░░░░░░░░░░   26.47% 
+JSON                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.91%
 
 🔥 Editors: 
-VS Code                  2 hrs 20 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 27 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-ConsorcioAmigo           2 hrs 20 mins       █████████████████████████   100.0%
+ConsorcioAmigo           3 hrs 27 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    2 hrs 20 mins       █████████████████████████   100.0%
+Linux                    3 hrs 27 mins       █████████████████████████   100.0%
 
 ```
 
@@ -136,5 +136,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DiegoSousaSilva/DiegoSousaSilva/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/07/2022 00:57:54 UTC
+ Last Updated on 15/07/2022 01:01:53 UTC
 <!--END_SECTION:waka-->
