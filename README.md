@@ -57,7 +57,7 @@
 ![Diego GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoSousaSilva&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-344%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -134,5 +134,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DiegoSousaSilva/DiegoSousaSilva/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/08/2022 01:01:48 UTC
+ Last Updated on 19/08/2022 00:59:00 UTC
 <!--END_SECTION:waka-->
