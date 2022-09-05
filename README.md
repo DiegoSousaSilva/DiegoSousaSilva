@@ -57,7 +57,7 @@
 ![Diego GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoSousaSilva&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-348%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -75,51 +75,6 @@
  > 
 > 🔑 6 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-🌆 Daytime    3 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-🌃 Evening    5 commits      ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-🌙 Night      11 commits     █████████████░░░░░░░░░░░░   52.38%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Tuesday      1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-Wednesday    10 commits     ████████████░░░░░░░░░░░░░   47.62% 
-Thursday     4 commits      ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
-Friday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-Saturday     3 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Sunday       2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-TypeScript               3 hrs 35 mins       ███████████████████████░░   91.84% 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.47% 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
-
-🔥 Editors: 
-VS Code                  3 hrs 54 mins       █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-rockethelp-diego         3 hrs 54 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Linux                    3 hrs 54 mins       █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -137,5 +92,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DiegoSousaSilva/DiegoSousaSilva/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 00:58:41 UTC
+ Last Updated on 05/09/2022 01:09:52 UTC
 <!--END_SECTION:waka-->
