@@ -57,7 +57,7 @@
 ![Diego GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoSousaSilva&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-352%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -67,7 +67,7 @@
 
 > 🏆 11 Contributions in the Year 2022
  > 
-> 📦 150.4 kB Used in GitHub's Storage 
+> 📦 150.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,20 +104,21 @@ Sunday       2 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               3 hrs 32 mins       ██████████████████████░░░   88.9% 
-JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.92% 
-Groovy                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58% 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+TypeScript               1 hr 59 mins        ██████████████░░░░░░░░░░░   57.18% 
+JSON                     1 hr 14 mins        █████████░░░░░░░░░░░░░░░░   35.64% 
+Groovy                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.32% 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.93% 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66%
 
 🔥 Editors: 
-VS Code                  3 hrs 58 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 29 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-rockethelp-diego         3 hrs 58 mins       █████████████████████████   100.0%
+rockethelp-diego         2 hrs 3 mins        ██████████████░░░░░░░░░░░   58.95% 
+rockethelpdiego          1 hr 25 mins        ██████████░░░░░░░░░░░░░░░   41.05%
 
 💻 Operating System: 
-Linux                    3 hrs 58 mins       █████████████████████████   100.0%
+Linux                    3 hrs 29 mins       █████████████████████████   100.0%
 
 ```
 
@@ -138,5 +139,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DiegoSousaSilva/DiegoSousaSilva/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/09/2022 01:04:10 UTC
+ Last Updated on 21/09/2022 01:06:29 UTC
 <!--END_SECTION:waka-->
