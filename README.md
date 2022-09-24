@@ -57,7 +57,7 @@
 ![Diego GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoSousaSilva&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-359%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-359%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -67,7 +67,7 @@
 
 > 🏆 11 Contributions in the Year 2022
  > 
-> 📦 150.3 kB Used in GitHub's Storage 
+> 📦 150.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -140,5 +140,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DiegoSousaSilva/DiegoSousaSilva/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/09/2022 01:05:00 UTC
+ Last Updated on 24/09/2022 01:05:03 UTC
 <!--END_SECTION:waka-->
