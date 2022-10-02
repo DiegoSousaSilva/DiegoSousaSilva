@@ -104,18 +104,16 @@ Sunday       2 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               1 hr 8 mins         ████████████████████████░   99.44% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 9 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-plantManagerRN           1 hr 9 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 9 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -136,5 +134,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DiegoSousaSilva/DiegoSousaSilva/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/10/2022 01:23:02 UTC
+ Last Updated on 02/10/2022 01:11:50 UTC
 <!--END_SECTION:waka-->
