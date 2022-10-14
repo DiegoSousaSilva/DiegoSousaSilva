@@ -57,7 +57,7 @@
 ![Diego GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoSousaSilva&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-363%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-364%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -104,19 +104,17 @@ Sunday       2 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               1 hr 13 mins        ████████████████████░░░░░   81.81% 
-JavaScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.74% 
-Git                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.92% 
-Groovy                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.53%
+TypeScript               38 mins             █████████████████████░░░░   84.77% 
+JavaScript               6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.23%
 
 🔥 Editors: 
-VS Code                  1 hr 29 mins        █████████████████████████   100.0%
+VS Code                  45 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-plantManagerRN           1 hr 29 mins        █████████████████████████   100.0%
+plantManagerRN           45 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    1 hr 29 mins        █████████████████████████   100.0%
+Linux                    45 mins             █████████████████████████   100.0%
 
 ```
 
@@ -137,5 +135,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DiegoSousaSilva/DiegoSousaSilva/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/10/2022 01:11:40 UTC
+ Last Updated on 14/10/2022 01:18:10 UTC
 <!--END_SECTION:waka-->
