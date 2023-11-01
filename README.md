@@ -6,7 +6,6 @@
 
 #### Possuo experiencia em desenvolvimento web utilizando o CMS Wordpress onde criei alguns sites para empresas em parceria com o Sebraetec. Tenho experiências com tecnologias como HTML, CSS, Javascript, Typescript, React, React Native, Node, PHP, Laravel, Wordpress entre outras. Assim como possuo competências em bancos d dados SQL e NoSQL.
 
-#### Atualmente trabalho em uma área diferente da que desejo atuar, no momento estou passando por uma lenta transição de carreira onde trabalho o dia inteiro em uma oficina de lanternagem e pintura automotiva e a noite e nos dias de folga e feriados foco nos projetos freelances e quando não estou desenvolvendo um, tiro esse tempo para estudar muito e me aprofundar nas linguagens que escolhi como stack e gostaria muito de acelerar esse processo de transição por meio de um emprego fixo na área de programação.
 
 ---
 
