@@ -31,8 +31,8 @@ Sempre buscando aprender, evoluir e construir soluções que gerem valor real pa
 
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github
-
-![Diego GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoSousaSilva&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=DiegoSousaSilva&theme=tokyonight)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiegoSousaSilva&theme=tokyonight)
 
 <!-- START_SECTION:waka -->
 
